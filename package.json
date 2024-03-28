@@ -1,5 +1,5 @@
 {
-  "name": "@talib_zaidi/talib-zaidi888-number-guessing",
+  "name": "@talib-zaidi/talib-zaidi888-number-guessing",
   "version": "4.0.2",
   "description": "This is cli based number guessing game",
   "main": "index.js",
